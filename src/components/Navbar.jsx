@@ -80,11 +80,9 @@ const Navbar = () => {
                         My Portfolio
                     </Link>
 
-                    <button 
-                    onClick={handleSignout}
-                    className=''>
+                 
 
-                    </button>
+                  
                 </div>
             </div>
         </nav>
